@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tesla 3D 车衣图纸"
+  short_description: "按官方 UV 模板生成方向正确的 Model 3 / Y 车衣图纸"
+  default_prompt: "Use $tesla-wrap-uv to start a new wrap job and ask me to choose the Tesla model, exact version, and theme from scratch."
